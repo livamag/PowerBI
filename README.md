@@ -1,7 +1,7 @@
 # Power BI
  <img height="40" width="40" alt="powerbi-icon" src="https://img.icons8.com/color/256/power-bi.png"> 
 
-Participação no Bootcamp do canal do youtube - <a href="https://www.youtube.com/@pbiexperience" target="_blank"> Power BI Experience </a>.
+Participação no Bootcamp do canal do youtube - <a href="https://www.youtube.com/@pbiexperience" target="_blank">Power BI Experience</a>.
 
 Foram três dias, onde o instrutor, Leonardo Karpinski, ensinou a criar um dashboard no Power BI. 
 
